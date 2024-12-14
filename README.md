@@ -127,3 +127,11 @@ Pagination and Lazy Loading:
 
 Handle large datasets by paginating package listings or implementing infinite scroll.
 This detailed description can be included in the project documentation (e.g., README file) to clearly explain the project’s scope, features, and future possibilities.
+Deployment
+Backend: Deploy using Render, Heroku, or similar services.
+Frontend: Deploy using Vercel, Netlify, or similar platforms.
+Database: Use MongoDB Atlas.
+Deliverables
+Public GitHub repo with clear commit history and a README file.
+Hosted links for the app.
+Optional demo video showcasing functionality.
